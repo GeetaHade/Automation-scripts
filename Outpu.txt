@@ -1,0 +1,22 @@
+--------------------------------------------------
+---------------Directory Watcher------------------
+--------------------------------------------------
+path is not absolute path
+converted absolute path is :  /Users/geetahade/Desktop/python/Automation/Study
+Deleted file name :  writefile copy.py
+Time required to execute the script :  0.0004119873046875
+--------------------------------------------------
+-----------Script execution successful------------
+--------------------------------------------------
+--------------------------------------------------
+---------------Directory Watcher------------------
+--------------------------------------------------
+path is not absolute path
+converted absolute path is :  /Users/geetahade/Desktop/python/Automation/Study
+Deleted file name :  readfileLine copy 2.py
+Deleted file name :  readfileLine copy 3.py
+Deleted file name :  readfileLine copy.py
+Time required to execute the script :  0.0017819404602050781
+--------------------------------------------------
+-----------Script execution successful------------
+--------------------------------------------------
